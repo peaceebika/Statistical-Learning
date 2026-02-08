@@ -66,11 +66,19 @@ This repository follows the official course structure and timetable, with code a
 ```text
 Statistical-Learning/
 │
-├── Code/
-│   ├── Statistics_Homework_1.ipynb
-│   ├── (additional notebooks by module)
+├── salary_linear_regression/
+│   ├── Code/
+│   ├── DATA/
+│   └── README.md
 │
-├── DATA/
-│   └── (datasets used in assignments)
+├── homework_1/
+│   ├── Code/
+│   ├── DATA/
+│   └── README.md
 │
-├── README.md
+├── homework_2/
+│   ├── Code/
+│   ├── DATA/
+│   └── README.md
+│
+└── README.md   (main course README)
