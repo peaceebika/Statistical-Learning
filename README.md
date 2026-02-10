@@ -14,7 +14,6 @@ This repository follows the official course structure and timetable, with code a
 ## 🧩 Course Modules & Topics
 
 ### **Module 1: Foundations of Statistical Learning**  
-**Duration:** 13 hours  
 **Goal:** Understand the principles, assumptions, and limitations of learning from data under uncertainty.
 
 **Topics Covered:**
@@ -28,8 +27,7 @@ This repository follows the official course structure and timetable, with code a
 
 ---
 
-### **Module 2: Model Flexibility, Regularization, and Assessment**  
-**Duration:** 13 hours  
+### **Module 2: Model Flexibility, Regularization, and Assessment**   
 **Goal:** Develop, apply, and interpret predictive and classification models using supervised learning methods.
 
 **Topics Covered:**
@@ -45,7 +43,6 @@ This repository follows the official course structure and timetable, with code a
 ---
 
 ### **Module 3: Modern Statistical Learning Methods**  
-**Duration:** 13 hours  
 **Goal:** Evaluate model performance, explore data structure, and apply statistical learning methods to real problems.
 
 **Topics Covered:**
