@@ -72,7 +72,7 @@ Statistical-Learning/
 │   ├── Code/
 │   └── README.md
 │
-├── homework_2/
+├── Exercise/
 │   ├── Code/
 │   ├── DATA/
 │   └── README.md
