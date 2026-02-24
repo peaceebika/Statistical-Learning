@@ -80,4 +80,4 @@ Statistical-Learning/
 ├── Regression-Analysis-With-Inference/
 │   ├── Code/
 │   └── README.md
-└── README.md   (main course README)
+└── README.md   (Main Course README)
