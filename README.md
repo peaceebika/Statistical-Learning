@@ -55,6 +55,7 @@ This repository follows the official course structure and timetable, with code a
   - Principal Component Analysis (PCA)  
   - K-Means Clustering  
   - Hierarchical Clustering
+Feel free to explore the materials. 
 
 ---
 
