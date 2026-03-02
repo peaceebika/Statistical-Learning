@@ -82,4 +82,10 @@ Statistical-Learning/
 ├── Regression-Analysis-With-Inference/
 │   ├── Code/
 │   └── README.md
+|
+├── logistic-regression-social-network-ads/
+│   ├── data/
+│   ├── Code/bank.csv
+│   └── logistic_regression_analysis.Rmd
+│
 └── README.md   (Main Course README)
