@@ -56,7 +56,7 @@ This repository follows the official course structure and timetable, with code a
   - K-Means Clustering  
   - Hierarchical Clustering
     
-This repository is intended for academic, learning, and portfolio purposes. Feel free to explore it.
+This repository is intended for academic, learning, and portfolio purposes.
 
 ---
 
