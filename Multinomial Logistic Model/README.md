@@ -1,6 +1,6 @@
 ---
 title: "Multinomial Logistic Regression: Wine Classification"
-author: "Peace Ebika"
+author: "Peace Chinemere Ebika"
 output: github_document
 ---
 
