@@ -91,5 +91,8 @@ Statistical-Learning/
 │   ├── data/
 │   ├── Code/bank.csv
 │   └── logistic_regression_analysis.Rmd
-│
+├── Multinomial Regresssion Model/
+│   ├── Code/
+│   ├── DATA/
+│   └── README.md
 └── README.md   (Main Course README)
