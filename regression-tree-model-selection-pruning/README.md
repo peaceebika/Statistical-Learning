@@ -104,10 +104,3 @@ Pruning reduces overfitting by simplifying the model, leading to better generali
 - `README.md` → Project documentation  
 
 ---
-
-## 🚀 How to Run
-
-1. Open the `.Rmd` file in **RStudio**
-2. Ensure `reticulate` is installed:
-   ```r
-   install.packages("reticulate")
