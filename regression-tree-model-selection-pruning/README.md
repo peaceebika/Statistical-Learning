@@ -99,7 +99,7 @@ Pruning reduces overfitting by simplifying the model, leading to better generali
 
 ## 📂 Files in This Repository
 
-- `regression_tree_analysis.Rmd` → Main analysis file  
+- `regression_tree_analysis.ipynb` → Main analysis file  
 - `insurance.csv` → Dataset  
 - `README.md` → Project documentation  
 
