@@ -110,7 +110,7 @@ No external download is required.
 
 ## 📂 Files in This Repository
 
-- `classification_tree_analysis.Rmd` → Main analysis file   
+- `classification_tree_analysis.ipynb` → Main analysis file   
 - `README.md` → Project documentation  
 
 
