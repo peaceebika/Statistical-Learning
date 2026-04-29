@@ -1,7 +1,7 @@
 # Statistical Learning
 ---
-title: "Statistical Learning"
-author: "Peace Chinemere Ebika"
+title: Statistical Learning
+author: Peace Chinemere Ebika
 output: github_document
 ---
 This repository contains coursework and practical implementations for the **Statistical Learning** course.  
