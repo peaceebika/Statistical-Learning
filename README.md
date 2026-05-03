@@ -101,7 +101,6 @@ Statistical-Learning/
 │
 └── README.md   (Main Course README)
 
-experimentation
 ```
 ---
 
