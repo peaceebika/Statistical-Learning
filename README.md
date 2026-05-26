@@ -97,7 +97,7 @@ Statistical-Learning/
 │
 │
 │
-└── README.md   (Main Course README)
+└── README.md   (Main Course)
 
 ```
 ---
