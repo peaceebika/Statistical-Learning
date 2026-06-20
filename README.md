@@ -1,4 +1,4 @@
-# Statistics
+# Statistical Learning
 ---
 This repository contains coursework and practical implementations for the **`Statistical Learning Course`**.  
 The course focuses on understanding how statistical models learn from data under uncertainty and how these models are applied to real-world problems.
