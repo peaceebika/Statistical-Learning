@@ -21,7 +21,7 @@ This repository follows the official course structure and timetable, with code a
   - Simple Linear Regression  
   - Multiple Linear Regression  
 - Classification  
-  - Logistic Regression  (LR)
+  - Logistic Regression  
   - Linear Discriminant Analysis (LDA)
 - K-Nearest Neighbors (KNN)  
 
