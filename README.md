@@ -86,7 +86,7 @@ Statistical-Learning/
 │   └── README.md
 |
 ├── logistic-regression-social-network-ads/
-│   ├── data/
+│   ├── DATA/
 │   ├── Code/bank.csv
 │   └── logistic_regression_analysis.Rmd
 ├── Multinomial Regression Model/
