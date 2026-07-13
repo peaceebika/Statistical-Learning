@@ -72,6 +72,7 @@ Statistical-Learning/
 │
 ├── Multiple_linear_regression/
 │   ├── Code/
+│   ├── DATA/
 │   └── README.md
 │
 ├── Exercise/
