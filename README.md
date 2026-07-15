@@ -11,7 +11,7 @@ This repository follows the official course structure and timetable, with code a
 
 ---
 
-## 🧩 Course Modules & Topics
+## 🧩 Course Modules / Topics
 
 ### **Module 1: Foundations of Statistical Learning**  
 **Goal:** Understand the principles, assumptions, and limitations of learning from data under uncertainty.
