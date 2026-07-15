@@ -43,7 +43,7 @@ This repository follows the official course structure and timetable, with code a
 ---
 
 ### **Module 3: Modern Statistical Learning Methods**  
-**Goal:** Evaluate model performance, explore data structure, and apply statistical learning methods to real problems.
+**Goals:** Evaluate model performance, explore data structure, and apply statistical learning methods to real problems.
 
 **Topics Covered:**
 - Tree-Based Methods  
