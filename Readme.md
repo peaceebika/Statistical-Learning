@@ -5,7 +5,7 @@ The course focuses on understanding how statistical models learn from data under
 
 ---
 
-## 📘 Course Overview
+## 📘 **Course Overview**
 Statistical Learning combines probability, statistics, and computation to develop predictive and inferential models.  
 This repository follows the official course structure and timetable, with code and experiments aligned to each module.
 
