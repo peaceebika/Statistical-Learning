@@ -60,7 +60,7 @@ This repository is intended for academic, learning, and portfolio purposes.
 
 ---
 
-## 📂 Repository Structure
+## 🗂️ Repository Structure
 
 ```text
 Statistical-Learning/
